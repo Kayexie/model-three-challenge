@@ -14,7 +14,12 @@ N/A
 
 ## Usage
 
-![Screenshot of the used image]()  
+Step:
+  - 1. CLick 'Generate Password' button to choose password length
+  - 2. Choose if to include Uppercase/Lowercase/Number/Symbol not not
+  - 3. Password generated
+
+![Screenshot of the used image](img/screenshot.png);
 
 ## Credits
 N/A
