@@ -36,26 +36,26 @@ generateBtn.addEventListener("click", writePassword);
 // var Symbol = window.confirm ("OK to Include Symbols?")
 
 
-// function getRandomUpper(){
-// var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
-// return uppercase[Math.floor(Math.random()*uppercase.length)]
-// }
+function getRandomUpper(){
+var uppercase = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+return uppercase[Math.floor(Math.random()*uppercase.length)]
+}
 
 
-// function getRandomLower(){
-//   var lowercase = "abcdefghijklmnopqrstuvwxyz"
-//   return lowercase[Math.floor(Math.random()*lowercase.length)]
-// }
+function getRandomLower(){
+  var lowercase = "abcdefghijklmnopqrstuvwxyz"
+  return lowercase[Math.floor(Math.random()*lowercase.length)]
+}
 
-// function getRandomNumber(){
-//    var numbers = "0123456789"
-//    return numbers[Math.floor(Math.random()*numbers.length)]
-// }
+function getRandomNumber(){
+   var numbers = "0123456789"
+   return numbers[Math.floor(Math.random()*numbers.length)]
+}
   
-// function getRandomSymbol() {
-//     var symbol = "!@#$%^&*(){}[]=<>/,."
-//     return symbol[Math.floor(Math.random()*symbol.length)]
-// }
+function getRandomSymbol() {
+    var symbol = "!@#$%^&*(){}[]=<>/,."
+    return symbol[Math.floor(Math.random()*symbol.length)]
+}
 
 
 // const randomgroup = {
